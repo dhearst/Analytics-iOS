@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AnalyticLayer'
-  s.version          = '1.0.0'
+  s.version          = '1.2.0'
   s.summary          = 'Easily wrap any analytic logging tool to provide a layer between your app and the tools that you use.'
 
 # This description is used to generate tags and improve search results.
